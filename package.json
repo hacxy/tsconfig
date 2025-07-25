@@ -1,6 +1,9 @@
 {
   "name": "@hacxy/tsconfig",
   "version": "0.1.0",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "Shared TypeScript config for my projects",
   "scripts": {
     "build": "echo \" no build specified\""
