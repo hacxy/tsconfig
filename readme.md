@@ -8,7 +8,7 @@
 npm install --save-dev @hacxy/tsconfig
 ```
 
-_ TypeScript >= 5.5 _
+**TypeScript >= 5.5**
 
 ## Usage
 
