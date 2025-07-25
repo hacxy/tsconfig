@@ -1,0 +1,26 @@
+{
+  "name": "@hacxy/tsconfig",
+  "version": "0.0.0",
+  "description": "Shared TypeScript config for my projects",
+  "scripts": {
+    "build": "echo \" no build specified\""
+  },
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config",
+    "configuration"
+  ],
+  "author": {
+    "name": "Hacxy",
+    "email": "hacxy.js@outlook.com",
+    "url": "https://hacxy.cn"
+  },
+  "exports": "./tsconfig.json",
+  "license": "MIT",
+  "packageManager": "pnpm@10.12.3",
+  "devDependencies": {
+    "@hacxy/bump": "^0.1.0"
+  }
+}
